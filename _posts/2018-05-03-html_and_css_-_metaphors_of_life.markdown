@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "HTML and CSS - Metaphors of life"
-date:       2018-05-03 15:25:38 +0000
+title:      "HTML and CSS - Metaphor of life"
+date:       2018-05-03 11:25:39 -0400
 permalink:  html_and_css_-_metaphors_of_life
 ---
 
