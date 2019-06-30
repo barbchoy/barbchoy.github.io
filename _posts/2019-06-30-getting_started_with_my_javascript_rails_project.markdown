@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Getting Started with my JavaScript Rails Project"
-date:       2019-06-30 16:35:36 +0000
+date:       2019-06-30 12:35:37 -0400
 permalink:  getting_started_with_my_javascript_rails_project
 ---
 
